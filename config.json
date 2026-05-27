@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadersonnect",
+        "uuid": 3380531,
+        "checksum": "c9c94j"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
